@@ -1,14 +1,13 @@
-## Hi there 👋
 
-# 👋 Hi, I'm **Thirumal P**
+# Hi, I'm **Thirumal P**
 
-### 🚀 *Aspiring Software Developer | AI & Data Science Graduate | Frontend & Python Enthusiast*
+###  *Aspiring Software Developer | AI & Data Science Graduate | Frontend & Python Enthusiast*
 
 Welcome to my GitHub profile! I'm a passionate tech learner with hands-on experience in **Frontend Development**, **Python**, **Machine Learning**, and **Creative Content Creation**. I enjoy building real-world projects, exploring new technologies, and solving meaningful problems.
 
 ---
 
-## 📍 About Me
+##  About Me
 
 * 🎓 **B.Tech - Artificial Intelligence & Data Science** (2021–2025)
 * 🎯 CGPA: **8.8**, No history of arrears
@@ -26,15 +25,12 @@ Welcome to my GitHub profile! I'm a passionate tech learner with hands-on experi
 
 ### **Backend & Programming**
 
-* Python, Node.js, Django
+* Python, Django
 
 ### **Databases**
 
 * SQL, MySQL, MongoDB
 
-### **Other Skills**
-
-* Leadership, Teamwork, Communication, Creativity, Time Management
 
 ---
 
@@ -81,36 +77,11 @@ Welcome to my GitHub profile! I'm a passionate tech learner with hands-on experi
 
 ---
 
-## 🥇 Achievements
-
-* **Won First Prize** in Treasure Hunt at Ramakrishna Engineering College (National Level Technical Symposium)
-* Earned cash prize
-
----
-
-## 🎓 Co‑Curricular Activities
-
-* Designed certificates for *Udhayam 2023* at KIT
-* Class Representative (2023–2025)
-* Organized Department Events (2023 & 2024)
-* NSS Volunteer
-* Department President (2024–2025)
-
----
-
-## 🧩 Workshops & Seminars
-
-* *Logical Rivera* — Kumaraguru College of Technology
-* *Paper Presentation* — Ramakrishna Engineering College
-* *AI & IoT Workshop* — SNS College of Engineering
-
----
-
 ## 🔗 Connect with Me
 
 * 💼 LinkedIn: [linkedin.com/in/thirumal-p-5234a9266](https://www.linkedin.com/in/thirumal-p-5234a9266/)
-* 🧑‍💻 GitHub: [github.com/Thirumal2003](https://github.com/Thirumal2003)
+* 🧑‍💻 Email: thiru43006@gmail.com 
 
 ---
 
-### ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.* 
+###  *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.* 
