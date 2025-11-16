@@ -36,6 +36,14 @@ Welcome to my GitHub profile! I'm a passionate tech learner with hands-on experi
 
 ## 💼 Professional Experience
 
+### ** 💻 Software Trainee — Pumo Technovation
+
+*Aug 2025 – Present*
+
+* Working as a Software Trainee focusing on real‑world development workflows
+
+* Contributing to backend, frontend, and DB-related modules
+
 ### **📱 Social Media Manager — Stu-X Academy**
 
 *Sep 2024 – Jan 2025, Coimbatore*
