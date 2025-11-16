@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate tech learner with hands-on experi
 
 ## 💼 Professional Experience
 
-### ** 💻 Software Trainee — Pumo Technovation
+### **💻 Software Trainee — Pumo Technovation
 
 *Aug 2025 – Present*
 
